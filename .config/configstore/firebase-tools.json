@@ -1,0 +1,48 @@
+{
+	"analytics-uuid": "40dff88d-9fac-41bb-a6cd-36d184afe2f1",
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1624289549549
+	},
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "103476358128011060355",
+		"email": "leahcalafell22@gmail.com",
+		"email_verified": true,
+		"at_hash": "ohGDDgffITB_c4MMR6b04w",
+		"iat": 1624289562,
+		"exp": 1624293162
+	},
+	"tokens": {
+		"expires_at": 1624360490112,
+		"refresh_token": "1//03oF1--vpE8byCgYIARAAGAMSNwF-L9Irc6toUXfZSyvahc_kekYOWpajXWfb5jYNP-BfKQiAw4GXkxD6g60RSkNFsBEPykyqX1s",
+		"scopes": [],
+		"access_token": "ya29.a0AfH6SMCB55zRmC9nnWzIvJmWTNM0-jxk0xtc3zjM9mA-2vcsBwNyWLMBUaH7NJzXB3yTAVSjl72nd69bat3nsLvyhtPXy1lDpiA5L9RoWEbpzmSJVRFQuhgwYVThojDXwcks-YAv9ED7cv9F0dd3AMhRd0FiYqZD2h0uDQ",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloudplatformprojects.readonly openid https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/cloud-platform",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjE5ZmUyYTdiNjc5NTIzOTYwNmNhMGE3NTA3OTRhN2JkOWZkOTU5NjEiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTAzNDc2MzU4MTI4MDExMDYwMzU1IiwiZW1haWwiOiJsZWFoY2FsYWZlbGwyMkBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6IjhvTDlKZU5WQVhsZEd6SHdKTmJQRVEiLCJpYXQiOjE2MjQzNTY4OTEsImV4cCI6MTYyNDM2MDQ5MX0.qro82KPh_MpJg6baMx2KBeE5z6fZCUobCERvq-zVmoNq-8_cjoABoCJtkgpKX4lkWraZxbhpvUUVJqwta_8MbmOjDXV5rSExzXuirrhZMqUbGUbuk5Xgc54VMQ_Nhv92rBhkgxSnc_4X1EFkeFEcNX0TdNIl2nI1ezZwPfi4lOy7d0DjMdeRbn64DqGrsjlaQaYo6zIYZh4Z_z6Y7AMGLct_l9uNsoXTXW_tajxdiSDl6UuWYepZLNOb1-tEWw-9FlWp52f4ERoDlVdktabkDmEd3U4fSmyNX2h8KruvkjtAkdG_T5sc3YyT7RV3IwboZAzI4rJ04qI4DiQ_zcO2YA"
+	},
+	"activeProjects": {
+		"C:\\Users\\leahc\\AgoraxDEV": "agoradev-d1f95"
+	},
+	"lastError": 1624359201800,
+	"webconfig": {
+		"agorax-4f030": {
+			"projectId": "agorax-4f030",
+			"storageBucket": "agorax-4f030.appspot.com",
+			"apiKey": "AIzaSyAps60_0imkSLDaYgqZ6AhQmqWDHa6W_iA",
+			"authDomain": "agorax-4f030.firebaseapp.com",
+			"messagingSenderId": "748524510927"
+		}
+	}
+}
